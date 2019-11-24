@@ -12,3 +12,4 @@ ls
 git status
 date
 echo "ok...." 
+read X

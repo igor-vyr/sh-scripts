@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=test-lancher
+Comment=
+Exec=./test.sh
+Icon=applications-development
+Terminal=true
+StartupNotify=false
+Name[en_US]=test-launcher
